@@ -24,7 +24,7 @@
     "react": "^16.9.0",
     "react-animated-slider": "^1.1.4",
     "react-dom": "^16.9.0",
-    "react-draft-wysiwyg": "^1.13.2",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-firebase-file-uploader": "^2.4.2",
     "react-firebaseui": "^4.0.0",
     "react-instantsearch-dom": "^5.7.0",
